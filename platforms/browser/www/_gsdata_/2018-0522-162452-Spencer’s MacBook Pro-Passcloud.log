@@ -1,0 +1,9 @@
+2018-05-22 16:24:55: -- Analysis Started by On File Change Incremental
+2018-05-22 16:25:21: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 755
+2018-05-22 16:25:21: Left to Right: Copy File: 2 
+2018-05-22 16:25:21: == Sync Started by On File Change Incremental
+2018-05-22 16:25:21: Start only 2 threads, limited by tasks to run
+2018-05-22 16:25:26: Copy Over '/www/Passcloud/passcloud.co/index.html' -> 'sftp://carroll.dreamhost.com/home/passcloud/dev/passcloud.co/index.html'
+2018-05-22 16:25:26: Copy Over '/www/Passcloud/passcloud.co/js/app.view.js' -> 'sftp://carroll.dreamhost.com/home/passcloud/dev/passcloud.co/js/app.view.js'
+2018-05-22 16:25:27: == Sync Complete. Time: 00:00:06, Speed: 6.1 KB/s, OK: 2, Errors: 0
+2018-05-22 16:25:27: 

@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "co.passcloud.mobile"
+        }
+    }
+}

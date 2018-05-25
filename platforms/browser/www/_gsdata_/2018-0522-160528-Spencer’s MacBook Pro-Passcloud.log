@@ -1,0 +1,11 @@
+2018-05-22 16:05:29: -- Analysis Started by User Command
+2018-05-22 16:05:51: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 755
+2018-05-22 16:05:51: Left to Right: Delete File: 2 
+2018-05-22 16:05:51: -- Analysis Complete. Time 00:00:23, Speed: 32 files/s
+2018-05-22 16:05:51: 
+2018-05-22 16:07:33: == Sync Started by User Command
+2018-05-22 16:07:34: Delete File 'sftp://carroll.dreamhost.com/home/passcloud/dev/passcloud.co/favicon.gif'
+2018-05-22 16:07:34: Delete File 'sftp://carroll.dreamhost.com/home/passcloud/dev/passcloud.co/favicon.ico'
+2018-05-22 16:07:34: Start only 0 threads, limited by tasks to run
+2018-05-22 16:07:35: == Sync Complete. Time: 00:00:05, Speed: 3.1 KB/s, OK: 2, Errors: 0
+2018-05-22 16:07:35: 

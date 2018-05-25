@@ -1,0 +1,8 @@
+2018-05-22 16:33:56: -- Analysis Started by On File Change Incremental
+2018-05-22 16:33:56: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 755
+2018-05-22 16:33:56: Left to Right: Copy File: 1 
+2018-05-22 16:33:56: == Sync Started by On File Change Incremental
+2018-05-22 16:33:56: Start only 1 threads, limited by tasks to run
+2018-05-22 16:33:58: Copy Over '/www/Passcloud/passcloud.co/readme.md' -> 'sftp://carroll.dreamhost.com/home/passcloud/dev/passcloud.co/readme.md'
+2018-05-22 16:34:02: == Sync Complete. Time: 00:00:06, Speed: 3.1 KB/s, OK: 1, Errors: 0
+2018-05-22 16:34:02: 
